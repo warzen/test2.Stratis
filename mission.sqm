@@ -12,7 +12,7 @@ class Mission
 	randomSeed=6702849;
 	class Intel
 	{
-		briefingName="test1";
+		briefingName="test2";
 		startWeather=0.29999998;
 		startWind=0.099999994;
 		startWaves=0.099999994;
